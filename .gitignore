@@ -1,6 +1,11 @@
+# ide config dir
 .idea/
 
-
+# dependencies
 node_modules/
 
+# TODO: remove dotenv
 .env
+
+# lock file
+package-lock.json
